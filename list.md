@@ -25,4 +25,4 @@
 
 ## Academic Journals:
 - [*Low cost, high performance actuators for dynamic robots*, Katz 2016](https://dspace.mit.edu/handle/1721.1/105580)
-- [Visualizing droplet dispersal for face shields and masks with exhalation valves, Verma et al. 2020](https://aip.scitation.org/doi/10.1063/5.0022968) 
+- [*Visualizing droplet dispersal for face shields and masks with exhalation valves,* Verma et al. 2020](https://aip.scitation.org/doi/10.1063/5.0022968) 

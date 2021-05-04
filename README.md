@@ -1,2 +1,2 @@
 # books-textbooks-and-academic-journals
-Interesting reads
+`list.md` contains a list of interesting reads

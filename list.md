@@ -1,20 +1,16 @@
 ## Academic Journals:
-- [*Low cost, high performance actuators for dynamic robots*, Katz 2016](https://dspace.mit.edu/handle/1721.1/105580)
 - [*A low cost modular actuator for dynamic robots*, Katz 2018](https://dspace.mit.edu/handle/1721.1/118671)
 - [*Visualizing droplet dispersal for face shields and masks with exhalation valves*, Verma et al. 2020](https://aip.scitation.org/doi/10.1063/5.0022968)
+...
+- paper from strong towns
 
 ## Books:
-- Sapiens
-- Homo Deus
+- The Life and Death of Great American Cities, Jacobs 1961
+- The 15-Minute City: A Solution to Saving Our Time and Our Planet, Moreno 2024
+- The Green Imperative, Papanek 1995
+- The Philosophy of Sustainable Design, McLennan 2004
 - The Sixth Extinction
-- Field Notes From a Catastrophe
-- The Martian
-- The Push
-- Alone On The Wall
-- Annapurna
-- The Good Rain
-- Slime
-- Elon Musk
 - The Monkey Wrench Gang
-- 1984
-- Sandworm: A New Era of Cyberwar
+...
+- where the water goes
+- down to earth

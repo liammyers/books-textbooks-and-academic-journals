@@ -9,8 +9,8 @@
 - The 15-Minute City: A Solution to Saving Our Time and Our Planet, Moreno 2024
 - The Green Imperative, Papanek 1995
 - The Philosophy of Sustainable Design, McLennan 2004
-- The Sixth Extinction
-- The Monkey Wrench Gang
-...
-- where the water goes
-- down to earth
+- Where the Water Goes: Life and Death Along the Colorado, Owen 2017
+- The Sixth Extinction: An Unnatural History, Kolbert 2014
+- Down to Earth: Politics in the New Climatic Regime, Latour 2018
+- All We Can Save: Truth, Courage, and Solutions for the Climate Crisis, Johnson 2020
+- The Monkey Wrench Gang, Abbey 1975
